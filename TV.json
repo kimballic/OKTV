@@ -1,5 +1,6 @@
 {
   "spider":"./jar/XBPQ.jar",
+  "logo": "https://xcz.iptv365.org/logo.php",
   "lives":[
     {
       "name":"📺|綜合直播🥇",
