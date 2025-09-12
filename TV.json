@@ -28,7 +28,6 @@
       "playerType": "3",
       //"filterable": 1,
       //"changeable": 1,
-      "danmu":true,
       "api": "https://tvbox.catvod.com/js/drpy2.min.js",
       "ext": "https://github.com/kimballic/265/raw/refs/heads/main/drpy_js/tx.js"
     },  
@@ -57,7 +56,6 @@
       "name":"🍎|蘋果🏆",
       "type": 4,
       "playerType": "1",
-      "danmu":true,
       "api": "https://zhangqun66.com/pingguo.php"
       //"type":3,
       //"api":"./js/Xpg.js"
@@ -67,6 +65,7 @@
       "key":"天堂",
       "name":"👼|天堂🏆",
       "type":3,
+      "danmu":true,
       "api":"csp_XBPQ",
       "ext":{
         "数组":"{&&}",
