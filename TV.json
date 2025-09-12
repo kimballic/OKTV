@@ -32,6 +32,26 @@
       "ext": "https://github.com/kimballic/265/raw/refs/heads/main/drpy_js/tx.js"
     },  
     {
+      "key": "mg1",
+      "name": "芒果1",
+      "type": 3,
+      "api": "https://github.com/wzxxcz/wzxxcz/raw/569cf4202ae2d78e6c378e3756d9933418ba3ef8/py/%E8%8A%92%E6%9E%9C%E8%A7%86%E9%A2%91.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "mg2",
+      "name": "芒果2",
+      "type": 3,
+      "playerType": "3",
+      //"filterable": 1,
+      //"changeable": 1,
+      "api": "https://tvbox.catvod.com/js/drpy2.min.js",
+      "ext": "https://github.com/wzxxcz/wzxxcz/raw/569cf4202ae2d78e6c378e3756d9933418ba3ef8/js/%E8%8A%92%E6%9E%9C%E8%A7%86%E9%A2%91.js"
+    },  
+    
+    {
       "key":"蘋果",
       "name":"🍎|蘋果🏆",
       "type": 4,
