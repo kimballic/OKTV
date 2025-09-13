@@ -31,26 +31,18 @@
       "api": "https://tvbox.catvod.com/js/drpy2.min.js",
       "ext": "https://github.com/kimballic/265/raw/refs/heads/main/drpy_js/tx.js"
     },  
-{
+    {
       "key": "玩偶哥哥",
-      "name": "👉春盈┃玩偶",
+      "name": "👽|玩偶🏆",
       "type": 3,
-      "api": "csp_WoGG",
+      "api": "csp_WoGGGuard",
+      "timeout": 30,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
+      "ext": {"Cloud-drive": "tvfan/Cloud-drive.txt","from": "4k|auto","siteUrl": "https://www.wogg.com/","danMu": "弹"},
+      "jar": "./jar/fan.txt"
     },
-    {
-      "key": "mg2",
-      "name": "芒果2",
-      "type": 3,
-      "playerType": "3",
-      //"filterable": 1,
-      //"changeable": 1,
-      "api": "https://tvbox.catvod.com/js/drpy2.min.js",
-      "ext": "https://github.com/wzxxcz/wzxxcz/raw/569cf4202ae2d78e6c378e3756d9933418ba3ef8/js/%E8%8A%92%E6%9E%9C%E8%A7%86%E9%A2%91.js"
-    },  
     
     {
       "key":"蘋果",
