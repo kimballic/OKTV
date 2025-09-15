@@ -43,7 +43,15 @@
       "ext": {"Cloud-drive": "tvfan/Cloud-drive.txt","from": "4k|auto","siteUrl": "https://www.wogg.com/","danMu": "弹"},
       "jar": "./jar/fan.txt"
     },
-    
+    {
+      "key": "WexZhaoPansoGuard",
+      "name": "🎠找盘┃综合🎠",
+      "type": 3,
+      "api": "csp_WexZhaoPansoGuard",
+      "searchable": 1,
+      "changeable": 0
+      "jar": "./jar/fan.txt"
+    },
     {
       "key":"蘋果",
       "name":"🍎|蘋果🏆",
