@@ -1,6 +1,6 @@
 {
-  "spider":"./jar/fty.jar",
-  //"spider":"./jar/XBPQ.jar",
+  //"spider":"./jar/fty.jar",
+  "spider":"./jar/XBPQ.jar",
   "logo": "https://media1.tenor.com/m/2ZFYgKyj65UAAAAC/turtle-dance.gif",
   "lives":[
     {
@@ -27,7 +27,8 @@
       "indexs": 1,
       "searchable": 0,
       "quickSearch": 0,
-      "changeable": 0
+      "changeable": 0,
+      "jar": "./jar/fty.jar"
 //         "type":4,
 //         "api":"https://tvbot.ggff.net/douban",
 //        "quickserch":0,
@@ -52,8 +53,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": {"Cloud-drive": "tvfan/Cloud-drive.txt","from": "4k|auto","siteUrl": "https://www.wogg.com/","danMu": "弹"}
-      //"jar": "./jar/fan.txt"
+      "ext": {"Cloud-drive": "tvfan/Cloud-drive.txt","from": "4k|auto","siteUrl": "https://www.wogg.com/","danMu": "弹"},
+      "jar": "./jar/fty.jar"
     },
     
     {
@@ -68,7 +69,7 @@
 
     {
       "key":"天堂",
-      "name":"👼|天堂1🏆",
+      "name":"👼|天堂🏆",
       "type":3,
       "danmu":true,
       "api":"csp_XBPQGuard",
@@ -842,6 +843,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
+      "jar": "./jar/fty.jar",
       "ext": {
         "Cloud-drive": "tvfan/Cloud-drive.txt",
         "from": "4k|auto"
@@ -855,6 +857,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
+      "jar": "./jar/fty.jar",
       "ext": {
         "pan": "quark",
         "Cloud-drive": "tvfan/Cloud-drive.txt",
@@ -871,6 +874,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "indexs": 0,
+      "jar": "./jar/fty.jar",
       "style": {
         "type": "list"
       }
@@ -883,6 +887,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
+      "jar": "./jar/fty.jar",
       "ext": {
         "Cloud-drive": "tvfan/Cloud-drive.txt",
         "from": "4k|auto"
@@ -896,6 +901,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
+      "jar": "./jar/fty.jar",
       "ext": {
         "Cloud-drive": "tvfan/Cloud-drive.txt",
         "from": "4k|auto"
@@ -909,6 +915,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
+      "jar": "./jar/fty.jar",
       "ext": {
         "Cloud-drive": "tvfan/Cloud-drive.txt",
         "from": "4k|auto"
@@ -922,6 +929,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
+      "jar": "./jar/fty.jar",
       "ext": {
         "Cloud-drive": "tvfan/Cloud-drive.txt",
         "from": "4k|auto"
@@ -935,6 +943,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
+      "jar": "./jar/fty.jar",
       "ext": {
         "Cloud-drive": "tvfan/Cloud-drive.txt",
         "from": "4k|auto"
