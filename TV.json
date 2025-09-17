@@ -72,7 +72,7 @@
       "name":"👼|天堂🏆",
       "type":3,
       "danmu":true,
-      "api":"csp_XBPQGuard",
+      "api":"csp_XBPQ",
       "ext":{
         "数组":"{&&}",
         "图片":"vod_pic\"*\"&&\"",
