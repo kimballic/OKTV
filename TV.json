@@ -4,17 +4,18 @@
   "logo": "https://media1.tenor.com/m/2ZFYgKyj65UAAAAC/turtle-dance.gif",
   "lives":[
     {
-      "name":"📺|綜合直播🥇",
-      "url":"./live/LIVE.txt"
-    },
-    {
-      "name":"TVB",
+      "name":"📺|香港",
       "url":"https://github.com/xiaotan8/xiaotan8.github.io/raw/refs/heads/main/mytv.m3u"
     },
     {
-      "name":"📺|TVB🥇",
-      "url":"https://php.946985.xyz/jackTV.m3u"
-    }   
+      "name":"📺|台湾",
+      "url":"https://github.com/kimballic/OKTV/raw/refs/heads/main/live/tw.m3u"
+    }
+
+//    {
+//      "name":"📺|TVB🥇",
+//      "url":"https://php.946985.xyz/jackTV.m3u"
+//    }   
   ],
   "sites":[
     
