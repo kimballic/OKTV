@@ -836,7 +836,7 @@
     },
     {
       "key": "Aliso",
-      "name": "🙀|阿狸",
+      "name": "🙀|阿狸💿",
       "type": 3,
       "api": "csp_PanSearchGuard",
       "searchable": 1,
@@ -849,7 +849,7 @@
     },
     {
       "key": "夸搜",
-      "name": "😻|夸搜|夸父",
+      "name": "😻|夸搜💿",
       "type": 3,
       "api": "csp_PanSearchGuard",
       "searchable": 1,
@@ -863,7 +863,7 @@
     },
     {
       "key": "seed",
-      "name": "💡|聚剧剧|三盘",
+      "name": "💡|三盘💿",
       "type": 3,
       "api": "csp_SeedhubGuard",
       "changeable": 0,
@@ -877,7 +877,7 @@
     },
     {
       "key": "抠搜",
-      "name": "🍄|抠抠|搜搜",
+      "name": "🍄|抠抠💿",
       "type": 3,
       "api": "csp_KkSsGuard",
       "searchable": 1,
@@ -890,7 +890,7 @@
     },
     {
       "key": "UC",
-      "name": "🌈|优汐|搜搜",
+      "name": "🌈|优汐💿",
       "type": 3,
       "api": "csp_UuSsGuard",
       "searchable": 1,
@@ -903,7 +903,7 @@
     },
     {
       "key": "YpanSo",
-      "name": "🐟|盘她|三盘",
+      "name": "🐟|盘她💿",
       "type": 3,
       "api": "csp_YpanSoGuard",
       "searchable": 1,
@@ -916,7 +916,7 @@
     },
     {
       "key": "xzso",
-      "name": "👻|盘它|三盘",
+      "name": "👻|盘它💿",
       "type": 3,
       "api": "csp_XzsoGuard",
       "searchable": 1,
@@ -929,7 +929,7 @@
     },
     {
       "key": "米搜",
-      "name": "🦋|米搜|夸父",
+      "name": "🦋|米搜💿",
       "type": 3,
       "api": "csp_MIPanSoGuard",
       "searchable": 1,
