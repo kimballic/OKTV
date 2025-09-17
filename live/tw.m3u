@@ -1,165 +1,158 @@
 #EXTM3U url-tvg="https://epg.pw/xmltv/epg_TW.xml" catchup-time="10800" catchup-type="timeshift"
-#EXTINF:-1 group-title="臺灣🥇|四季,#genre#" ,民視
+#EXTINF:-1,民視
 https://iptv.oktv.workers.dev/li-4gtv-4gtv002/index.m3u8
-#EXTINF:-1 group-title="臺灣🥇|四季,#genre#" ,民視第一台
+#EXTINF:-1,民視第一台
 https://iptv.oktv.workers.dev/li-4gtv-4gtv003/index.m3u8
-#EXTINF:-1 group-title="臺灣🥇|四季,#genre#" ,民視新聞台
+#EXTINF:-1,民視新聞台
 https://iptv.oktv.workers.dev/li-litv-ftv13/index.m3u8
-#EXTINF:-1 group-title="臺灣🥇|四季,#genre#" ,民視台灣台
+#EXTINF:-1,民視台灣台
 https://iptv.oktv.workers.dev/li-4gtv-4gtv001/index.m3u8
-#EXTINF:-1 group-title="臺灣🥇|四季,#genre#" ,民視影劇台
+#EXTINF:-1,民視影劇台
 https://iptv.oktv.workers.dev/li-litv-ftv09/index.m3u8
-#EXTINF:-1 group-title="臺灣🥇|四季,#genre#" ,民視旅遊台
+#EXTINF:-1,民視旅遊台
 https://iptv.oktv.workers.dev/li-litv-ftv07/index.m3u8
-#EXTINF:-1 group-title="臺灣🥇|四季,#genre#" ,民視綜藝台
+#EXTINF:-1,民視綜藝台
 https://iptv.oktv.workers.dev/li-4gtv-4gtv004/index.m3u8
-#EXTINF:-1 group-title="臺灣🥇|四季,#genre#" ,中視
+#EXTINF:-1,中視
 https://iptv.oktv.workers.dev/li-4gtv-4gtv040/index.m3u8
-#EXTINF:-1 group-title="臺灣🥇|四季,#genre#" ,中視新聞台
+#EXTINF:-1,中視新聞台
 https://iptv.oktv.workers.dev/li-4gtv-4gtv074/index.m3u8
-#EXTINF:-1 group-title="臺灣🥇|四季,#genre#" ,中視經典台
+#EXTINF:-1,中視經典台
 https://iptv.oktv.workers.dev/li-4gtv-4gtv080/index.m3u8
-#EXTINF:-1 group-title="臺灣🥇|四季,#genre#" ,中視菁采台
+#EXTINF:-1,中視菁采台
 https://iptv.oktv.workers.dev/li-4gtv-4gtv064/index.m3u8
-#EXTINF:-1 group-title="臺灣🥇|四季,#genre#" ,中天新聞台
+#EXTINF:-1,中天新聞台
 https://iptv.oktv.workers.dev/li-4gtv-4gtv009/index.m3u8
-#EXTINF:-1 group-title="臺灣🥇|四季,#genre#" ,中天亞洲台
+#EXTINF:-1,中天亞洲台
 https://iptv.oktv.workers.dev/4gtv-4gtv109/index.m3u8
-#EXTINF:-1 group-title="臺灣🥇|四季,#genre#" ,華視
+#EXTINF:-1,華視
 https://iptv.oktv.workers.dev/li-4gtv-4gtv041/index.m3u8
-#EXTINF:-1 group-title="臺灣🥇|四季,#genre#" ,華視新聞
+#EXTINF:-1,華視新聞
 https://iptv.oktv.workers.dev/li-4gtv-4gtv052/index.m3u8
-#EXTINF:-1 group-title="臺灣🥇|四季,#genre#" ,靖天綜合台
+#EXTINF:-1,靖天綜合台
 https://iptv.oktv.workers.dev/li-4gtv-4gtv046/index.m3u8
-#EXTINF:-1 group-title="臺灣🥇|四季,#genre#" ,靖天國際台
+#EXTINF:-1,靖天國際台
 https://iptv.oktv.workers.dev/li-4gtv-4gtv063/index.m3u8
-#EXTINF:-1 group-title="臺灣🥇|四季,#genre#" ,靖天戲劇台
+#EXTINF:-1,靖天戲劇台
 https://iptv.oktv.workers.dev/li-4gtv-4gtv058/index.m3u8
-#EXTINF:-1 group-title="臺灣🥇|四季,#genre#" ,靖天日本台
+#EXTINF:-1,靖天日本台
 https://iptv.oktv.workers.dev/li-4gtv-4gtv047/index.m3u8
-#EXTINF:-1 group-title="臺灣🥇|四季,#genre#" ,靖天映畫台
+#EXTINF:-1,靖天映畫台
 https://iptv.oktv.workers.dev/li-4gtv-4gtv055/index.m3u8
-#EXTINF:-1 group-title="臺灣🥇|四季,#genre#" ,靖天卡通台
+#EXTINF:-1,靖天卡通台
 https://iptv.oktv.workers.dev/li-4gtv-4gtv044/index.m3u8
-#EXTINF:-1 group-title="臺灣🥇|四季,#genre#" ,靖天育樂台
+#EXTINF:-1,靖天育樂台
 https://iptv.oktv.workers.dev/li-4gtv-4gtv062/index.m3u8
-#EXTINF:-1 group-title="臺灣🥇|四季,#genre#" ,靖天資訊台
+#EXTINF:-1,靖天資訊台
 https://iptv.oktv.workers.dev/li-4gtv-4gtv065/index.m3u8
-#EXTINF:-1 group-title="臺灣🥇|四季,#genre#" ,靖天電影台
+#EXTINF:-1,靖天電影台
 https://iptv.oktv.workers.dev/li-4gtv-4gtv061/index.m3u8
-#EXTINF:-1 group-title="臺灣🥇|四季,#genre#" ,靖天歡樂台
+#EXTINF:-1,靖天歡樂台
 https://iptv.oktv.workers.dev/li-4gtv-4gtv054/index.m3u8
-#EXTINF:-1 group-title="臺灣🥇|四季,#genre#" ,龍華偶像台
+#EXTINF:-1,龍華偶像台
 https://iptv.oktv.workers.dev/li-litv-longturn12/index.m3u8
-#EXTINF:-1 group-title="臺灣🥇|四季,#genre#" ,龍華卡通台
+#EXTINF:-1,龍華卡通台
 https://iptv.oktv.workers.dev/li-litv-longturn01/index.m3u8
-#EXTINF:-1 group-title="臺灣🥇|四季,#genre#" ,龍華戲劇台
+#EXTINF:-1,龍華戲劇台
 https://iptv.oktv.workers.dev/li-litv-longturn18/index.m3u8
-#EXTINF:-1 group-title="臺灣🥇|四季,#genre#" ,龍華日韓台
+#EXTINF:-1,龍華日韓台
 https://iptv.oktv.workers.dev/li-litv-longturn11/index.m3u8
-#EXTINF:-1 group-title="臺灣🥇|四季,#genre#" ,龍華經典台
+#EXTINF:-1,龍華經典台
 https://iptv.oktv.workers.dev/li-litv-longturn21/index.m3u8
-#EXTINF:-1 group-title="臺灣🥇|四季,#genre#" ,龍華電影台
+#EXTINF:-1,龍華電影台
 https://iptv.oktv.workers.dev/li-litv-longturn03/index.m3u8
-#EXTINF:-1 group-title="臺灣🥇|四季,#genre#" ,靖洋戲劇台
+#EXTINF:-1,靖洋戲劇台
 https://iptv.oktv.workers.dev/li-4gtv-4gtv045/index.m3u8
-#EXTINF:-1 group-title="臺灣🥇|四季,#genre#" ,靖洋卡通-Nice-Bingo
+#EXTINF:-1,靖洋卡通-Nice-Bingo
 https://iptv.oktv.workers.dev/li-4gtv-4gtv057/index.m3u8
-#EXTINF:-1 group-title="臺灣🥇|四季,#genre#" ,寰宇新聞台
+#EXTINF:-1,寰宇新聞台
 https://iptv.oktv.workers.dev/li-litv-longturn14/index.m3u8
-#EXTINF:-1 group-title="臺灣🥇|四季,#genre#" ,寰宇新聞台灣台
+#EXTINF:-1,寰宇新聞台灣台
 https://iptv.oktv.workers.dev/li-4gtv-4gtv156/index.m3u8
-#EXTINF:-1 group-title="臺灣🥇|四季,#genre#" ,寰宇財經台
+#EXTINF:-1,寰宇財經台
 https://iptv.oktv.workers.dev/li-4gtv-4gtv158/index.m3u8
-#EXTINF:-1 group-title="臺灣🥇|四季,#genre#" ,TVBS
+#EXTINF:-1,TVBS
 https://iptv.oktv.workers.dev/li-4gtv-4gtv073/index.m3u8
-#EXTINF:-1 group-title="臺灣🥇|四季,#genre#" ,TVBS-新聞台
+#EXTINF:-1,TVBS-新聞台
 https://iptv.oktv.workers.dev/li-4gtv-4gtv072/index.m3u8
-#EXTINF:-1 group-title="臺灣🥇|四季,#genre#" ,TVBS-歡樂台
+#EXTINF:-1,TVBS-歡樂台
 https://iptv.oktv.workers.dev/li-4gtv-4gtv068/index.m3u8
-#EXTINF:-1 group-title="臺灣🥇|四季,#genre#" ,TVBS-精采台
+#EXTINF:-1,TVBS-精采台
 https://iptv.oktv.workers.dev/li-4gtv-4gtv067/index.m3u8
-#EXTINF:-1 group-title="臺灣🥇|四季,#genre#" ,八大精彩台
+#EXTINF:-1,八大精彩台
 https://iptv.oktv.workers.dev/li-4gtv-4gtv034/index.m3u8
-#EXTINF:-1 group-title="臺灣🥇|四季,#genre#" ,八大綜藝台
+#EXTINF:-1,八大綜藝台
 https://iptv.oktv.workers.dev/li-4gtv-4gtv039/index.m3u8
-#EXTINF:-1 group-title="臺灣🥇|四季,#genre#" ,台視
+#EXTINF:-1,台視
 https://iptv.oktv.workers.dev/li-4gtv-4gtv066/index.m3u8
-#EXTINF:-1 group-title="臺灣🥇|四季,#genre#" ,台視新聞台
+#EXTINF:-1,台視新聞台
 https://iptv.oktv.workers.dev/li-4gtv-4gtv051/index.m3u8
-#EXTINF:-1 group-title="臺灣🥇|四季,#genre#" ,台視財經台
+#EXTINF:-1,台視財經台
 https://iptv.oktv.workers.dev/4gtv-4gtv056/index.m3u8
-#EXTINF:-1 group-title="臺灣🥇|四季,#genre#" ,博斯運動一台
+#EXTINF:-1,博斯運動一台
 https://iptv.oktv.workers.dev/litv-longturn07/index.m3u8
-#EXTINF:-1 group-title="臺灣🥇|四季,#genre#" ,博斯運動二台
+#EXTINF:-1,博斯運動二台
 https://iptv.oktv.workers.dev/litv-longturn08/index.m3u8
-#EXTINF:-1 group-title="臺灣🥇|四季,#genre#" ,博斯無限台
+#EXTINF:-1,博斯無限台
 https://iptv.oktv.workers.dev/litv-longturn10/index.m3u8
-#EXTINF:-1 group-title="臺灣🥇|四季,#genre#" ,博斯無限二台
+#EXTINF:-1,博斯無限二台
 https://iptv.oktv.workers.dev/litv-longturn13/index.m3u8
-#EXTINF:-1 group-title="臺灣🥇|四季,#genre#" ,博斯網球台
+#EXTINF:-1,博斯網球台
 https://iptv.oktv.workers.dev/litv-longturn09/index.m3u8
-#EXTINF:-1 group-title="臺灣🥇|四季,#genre#" ,博斯高球台
+#EXTINF:-1,博斯高球台
 https://iptv.oktv.workers.dev/litv-longturn05/index.m3u8
-#EXTINF:-1 group-title="臺灣🥇|四季,#genre#" ,博斯高球二台
+#EXTINF:-1,博斯高球二台
 https://iptv.oktv.workers.dev/litv-longturn06/index.m3u8
-#EXTINF:-1 group-title="臺灣🥇|四季,#genre#" ,博斯魅力台
+#EXTINF:-1,博斯魅力台
 https://iptv.oktv.workers.dev/litv-longturn04/index.m3u8
-#EXTINF:-1 group-title="臺灣🥇|四季,#genre#" ,ELTA娛樂
+#EXTINF:-1,ELTA娛樂
 https://iptv.oktv.workers.dev/li-4gtv-4gtv070/index.m3u8
-#EXTINF:-1 group-title="臺灣🥇|四季,#genre#" ,ELTA生活英語
+#EXTINF:-1,ELTA生活英語
 https://iptv.oktv.workers.dev/li-litv-longturn20/index.m3u8
-#EXTINF:-1 group-title="臺灣🥇|四季,#genre#" ,東森新聞
+#EXTINF:-1,東森新聞
 https://iptv.oktv.workers.dev/li-4gtv-4gtv152/index.m3u8
-#EXTINF:-1 group-title="臺灣🥇|四季,#genre#" ,東森財經新聞
+#EXTINF:-1,東森財經新聞
 https://iptv.oktv.workers.dev/li-4gtv-4gtv153/index.m3u8
-#EXTINF:-1 group-title="臺灣🥇|四季,#genre#" ,非凡新聞台
+#EXTINF:-1,非凡新聞台
 https://iptv.oktv.workers.dev/4gtv-4gtv010/index.m3u8
-#EXTINF:-1 group-title="臺灣🥇|四季,#genre#" ,非凡商業台
+#EXTINF:-1,非凡商業台
 https://iptv.oktv.workers.dev/4gtv-4gtv048/index.m3u8
-#EXTINF:-1 group-title="臺灣🥇|四季,#genre#" ,亞洲旅遊台
+#EXTINF:-1,亞洲旅遊台
 https://iptv.oktv.workers.dev/li-4gtv-4gtv076/index.m3u8
-#EXTINF:-1 group-title="臺灣🥇|四季,#genre#" ,GINX-Esports-TV
+#EXTINF:-1,GINX-Esports-TV
 https://iptv.oktv.workers.dev/li-4gtv-4gtv053/index.m3u8
-#EXTINF:-1 group-title="臺灣🥇|四季,#genre#" ,智林體育台
+#EXTINF:-1,智林體育台
 https://iptv.oktv.workers.dev/li-4gtv-4gtv101/index.m3u8
-#EXTINF:-1 group-title="臺灣🥇|四季,#genre#" ,TraceSports
+#EXTINF:-1,TraceSports
 https://iptv.oktv.workers.dev/li-4gtv-4gtv077/index.m3u8
-#EXTINF:-1 group-title="臺灣🥇|四季,#genre#" ,影迷數位電影台
+#EXTINF:-1,影迷數位電影台
 https://iptv.oktv.workers.dev/li-4gtv-4gtv011/index.m3u8
-#EXTINF:-1 group-title="臺灣🥇|四季,#genre#" ,公視戲劇台
+#EXTINF:-1,公視戲劇台
 https://iptv.oktv.workers.dev/li-4gtv-4gtv042/index.m3u8
-#EXTINF:-1 group-title="臺灣🥇|四季,#genre#" ,采昌影劇台
+#EXTINF:-1,采昌影劇台
 https://iptv.oktv.workers.dev/li-4gtv-4gtv049/index.m3u8
-#EXTINF:-1 group-title="臺灣🥇|四季,#genre#" ,台灣戲劇台
+#EXTINF:-1,台灣戲劇台
 https://iptv.oktv.workers.dev/li-litv-longturn22/index.m3u8
-#EXTINF:-1 group-title="臺灣🥇|四季,#genre#" ,影迷數位紀實台
+#EXTINF:-1,影迷數位紀實台
 https://iptv.oktv.workers.dev/li-litv-ftv15/index.m3u8
-#EXTINF:-1 group-title="臺灣🥇|四季,#genre#" ,Classica-古典樂
+#EXTINF:-1,Classica-古典樂
 https://iptv.oktv.workers.dev/li-4gtv-4gtv059/index.m3u8
-#EXTINF:-1 group-title="臺灣🥇|四季,#genre#" ,Mezzo-Live
+#EXTINF:-1,Mezzo-Live
 https://iptv.oktv.workers.dev/li-4gtv-4gtv083/index.m3u8
-#EXTINF:-1 group-title="臺灣🥇|四季,#genre#" ,豬哥亮歌廳秀
+#EXTINF:-1,豬哥亮歌廳秀
 https://iptv.oktv.workers.dev/li-4gtv-4gtv006/index.m3u8
-#EXTINF:-1 group-title="臺灣🥇|四季,#genre#" ,Trace-Urban
+#EXTINF:-1,Trace-Urban
 https://iptv.oktv.workers.dev/li-4gtv-4gtv082/index.m3u8
-#EXTINF:-1 group-title="臺灣🥇|四季,#genre#" ,Arirang-TV
+#EXTINF:-1,Arirang-TV
 https://iptv.oktv.workers.dev/li-4gtv-4gtv079/index.m3u8
-#EXTINF:-1 group-title="臺灣🥇|四季,#genre#" ,VOATV
+#EXTINF:-1,VOATV
 https://iptv.oktv.workers.dev/li-litv-ftv03/index.m3u8
-#EXTINF:-1 group-title="臺灣🥇|四季,#genre#" ,第1商業台
+#EXTINF:-1,第1商業台
 https://iptv.oktv.workers.dev/li-4gtv-4gtv104/index.m3u8
-#EXTINF:-1 group-title="臺灣🥇|四季,#genre#" ,Smart-知識台
+#EXTINF:-1,Smart-知識台
 https://iptv.oktv.workers.dev/li-litv-longturn19/index.m3u8
-#EXTINF:-1 group-title="臺灣🥇|四季,#genre#" ,視納華仁紀實頻道
+#EXTINF:-1,視納華仁紀實頻道
 https://iptv.oktv.workers.dev/li-4gtv-4gtv013/index.m3u8
-#EXTINF:-1 group-title="臺灣🥇|四季,#genre#" ,客家電視台
+#EXTINF:-1,客家電視台
 https://iptv.oktv.workers.dev/li-4gtv-4gtv043/index.m3u8
-#EXTINF:-1 group-title="臺灣🥇|四季,#genre#" ,好消息
-https://iptv.oktv.workers.dev/li-litv-ftv16/index.m3u8
-#EXTINF:-1 group-title="臺灣🥇|四季,#genre#" ,好消息2台
-https://iptv.oktv.workers.dev/li-litv-ftv17/index.m3u8
-#EXTINF:-1 group-title="臺灣🥇|四季,#genre#" ,國會頻道1
-https://iptv.oktv.workers.dev/li-4gtv-4gtv084/index.m3u8
-#EXTINF:-1 group-title="臺灣🥇|四季,#genre#" ,國會頻道2
-https://iptv.oktv.workers.dev/li-4gtv-4gtv085/index.m3u8
+
