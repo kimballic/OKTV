@@ -1,5 +1,5 @@
 {
-  //"spider":"./jar/fty.jar",
+  //"spider":"https://github.com/loopool/fan/raw/refs/heads/main/JAR/fan.txt",
   "spider":"./jar/XBPQ.jar",
   "logo": "https://media1.tenor.com/m/2ZFYgKyj65UAAAAC/turtle-dance.gif",
   "lives":[
@@ -28,7 +28,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "jar": "./jar/fty.jar"
+      "jar": "https://github.com/loopool/fan/raw/refs/heads/main/JAR/fan.txt"
 //         "type":4,
 //         "api":"https://tvbot.ggff.net/douban",
 //        "quickserch":0,
@@ -54,7 +54,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": {"Cloud-drive": "tvfan/Cloud-drive.txt","from": "4k|auto","siteUrl": "https://www.wogg.com/","danMu": "弹"},
-      "jar": "./jar/fty.jar"
+      "jar": "https://github.com/loopool/fan/raw/refs/heads/main/JAR/fan.txt"
     },
     
     {
@@ -843,7 +843,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "jar": "./jar/fty.jar",
+      "jar": "https://github.com/loopool/fan/raw/refs/heads/main/JAR/fan.txt",
       "ext": {
         "Cloud-drive": "tvfan/Cloud-drive.txt",
         "from": "4k|auto"
@@ -857,7 +857,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "jar": "./jar/fty.jar",
+      "jar": "https://github.com/loopool/fan/raw/refs/heads/main/JAR/fan.txt",
       "ext": {
         "pan": "quark",
         "Cloud-drive": "tvfan/Cloud-drive.txt",
@@ -874,7 +874,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "indexs": 0,
-      "jar": "./jar/fty.jar",
+      "jar": "https://github.com/loopool/fan/raw/refs/heads/main/JAR/fan.txt",
       "style": {
         "type": "list"
       }
@@ -887,7 +887,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "jar": "./jar/fty.jar",
+      "jar": "https://github.com/loopool/fan/raw/refs/heads/main/JAR/fan.txt",
       "ext": {
         "Cloud-drive": "tvfan/Cloud-drive.txt",
         "from": "4k|auto"
@@ -901,7 +901,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "jar": "./jar/fty.jar",
+      "jar": "https://github.com/loopool/fan/raw/refs/heads/main/JAR/fan.txt",
       "ext": {
         "Cloud-drive": "tvfan/Cloud-drive.txt",
         "from": "4k|auto"
@@ -915,7 +915,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "jar": "./jar/fty.jar",
+      "jar": "https://github.com/loopool/fan/raw/refs/heads/main/JAR/fan.txt",
       "ext": {
         "Cloud-drive": "tvfan/Cloud-drive.txt",
         "from": "4k|auto"
@@ -929,7 +929,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "jar": "./jar/fty.jar",
+      "jar": "https://github.com/loopool/fan/raw/refs/heads/main/JAR/fan.txt",
       "ext": {
         "Cloud-drive": "tvfan/Cloud-drive.txt",
         "from": "4k|auto"
@@ -943,7 +943,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "jar": "./jar/fty.jar",
+      "jar": "https://github.com/loopool/fan/raw/refs/heads/main/JAR/fan.txt",
       "ext": {
         "Cloud-drive": "tvfan/Cloud-drive.txt",
         "from": "4k|auto"
