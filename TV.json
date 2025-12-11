@@ -38,7 +38,7 @@
             "key": "直播转点播",
             "name": "🐢|龟龟TV📺",
             "type": 3,
-            "searchable": 0,
+            "searchable": 1,
             "timeout": 60,
             "api": "https://github.com/cm851228/my51228888/raw/refs/heads/main/live2vod.js",
             "ext": "https://github.com/cm851228/my51228888/raw/refs/heads/main/feimaolive1.json"
