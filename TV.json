@@ -34,29 +34,36 @@
 //        "quickserch":0,
 //         "searchable":0
       },
-      {
-      "key": "腾讯",
-      "name": "🐧|腾讯🏆",
-      "type": 3,
-      "playerType": "3",
-      //"filterable": 1,
-      //"changeable": 1,
-      "api": "https://tvbox.catvod.com/js/drpy2.min.js",
-      "ext": "https://github.com/kimballic/265/raw/refs/heads/main/drpy_js/tx.js"
-    },  
     {
-      "key": "玩偶哥哥",
-      "name": "👽|玩偶🏆",
-      "type": 3,
-      "api": "csp_WoGGGuard",
-      "timeout": 30,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {"Cloud-drive": "tvfan/Cloud-drive.txt","from": "4k|auto","siteUrl": "https://www.wogg.com/","danMu": "弹"},
-      "jar": "https://github.com/loopool/fan/raw/refs/heads/main/JAR/fan.txt"
+            "key": "直播转点播",
+            "name": "🐢|龟龟TV📺",
+            "type": 3,
+            "searchable": 0,
+            "timeout": 60,
+            "api": "https://github.com/cm851228/my51228888/raw/refs/heads/main/live2vod.js",
+            "ext": "https://github.com/cm851228/my51228888/raw/refs/heads/main/feimaolive1.json"
     },
-    
+    {
+         "key":"Qile优视频",
+         "name":"👊|优视频🏆",
+         "type":3,
+         "searchable":1,
+         "changeable":1,
+         "api":"csp_Uvod",
+         "filterable":1,
+         "playerType":2,
+         "jar": "http://github.com/FongMi/CatVodSpider/raw/7b76dc4523bd01cc1459c3de588de233f0aa2e6a/jar/custom_spider.jar"
+            
+        },
+        {            
+            "key": "yunyun",
+            "name": "⛲️|园园🏆",
+            "api": "https://learnpython.ggff.net/yunyun",
+            "timeout": 60,
+            "type": 4
+            
+        },
+        
     {
       "key":"蘋果",
       "name":"🍎|蘋果🏆",
