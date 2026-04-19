@@ -34,35 +34,8 @@
 //        "quickserch":0,
 //         "searchable":0
       },
-    {
-            "key": "直播转点播",
-            "name": "🐢|龟龟TV📺",
-            "type": 3,
-            "searchable": 0,
-            "timeout": 60,
-            "api": "https://github.com/cm851228/my51228888/raw/refs/heads/main/live2vod.js",
-            "ext": "https://github.com/cm851228/my51228888/raw/refs/heads/main/feimaolive1.json"
-    },
-    {
-         "key":"Qile优视频",
-         "name":"👊|优视频🏆",
-         "type":3,
-         "searchable":1,
-         "changeable":1,
-         "api":"csp_Uvod",
-         "filterable":1,
-         "playerType":2,
-         "jar": "http://github.com/FongMi/CatVodSpider/raw/7b76dc4523bd01cc1459c3de588de233f0aa2e6a/jar/custom_spider.jar"
-            
-        },
-        {            
-            "key": "yunyun",
-            "name": "⛲️|园园🏆",
-            "api": "https://learnpython.ggff.net/yunyun",
-            "timeout": 60,
-            "type": 4
-            
-        },
+
+
         
     {
       "key":"蘋果",
