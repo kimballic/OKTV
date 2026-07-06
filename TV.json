@@ -20,7 +20,7 @@
   "sites":[
     
       {
-      "key":"豆瓣",
+      "key":"点我切源",
       "name":"✨️【ケンのテレビ】",
       "type": 3,
       "api": "csp_DouDouGuard",
@@ -28,24 +28,31 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "jar": "https://github.com/loopool/fan/raw/refs/heads/main/JAR/fan.txt"
-//         "type":4,
-//         "api":"https://tvbot.ggff.net/douban",
-//        "quickserch":0,
-//         "searchable":0
+      "jar": "https://github.com/qist/tvbox/raw/be072158df929c8298da999efb41c73e01452b11/jar/fan.txt"
+
       },
-{"key":"MTV1","name":"🎙️易听🏆","type":3,"api":"csp_MusicGuard","style":{"type":"rect","ratio":1},"playerType":2,"searchable":1,"quickSearch":0,"changeable":0},
+{"key":"MTV1","name":"🎙️易听","jar": "https://github.com/qist/tvbox/raw/be072158df929c8298da999efb41c73e01452b11/jar/fan.txt","type":3,"api":"csp_MusicGuard","style":{"type":"rect","ratio":1},"playerType":2,"searchable":1,"quickSearch":0,"changeable":0},
 
         {
             "key": "3QQQ",
-            "name": "🍅|大鹅🏆",
+            "name": "🍅大鹅",
             "type": 3,
             "timeout": 15,
             "api": "csp_App3Q",
-            "jar": "https://github.com/ls125781003/tvboxtg/raw/refs/heads/main/%E5%B0%8F%E7%B1%B3/spider.jar"
+            "ext" : "https://asd123sx23xdacsx.top",
+            "jar": "https://s3plus.meituan.net/opapisdk/op_ticket_1_885190757_1782118073266_ZXYRUXPn.jpg"
         },
         
-        
+    {
+      "key" : "麦田",
+      "name" : "🌾麦田┃1080P",
+      "type" : 3,
+      "api" : "csp_AppV6",
+      "ext" : "http://172.247.227.203:25321/mtys.php",
+      "jar": "https://s3plus.meituan.net/opapisdk/op_ticket_1_885190757_1782118073266_ZXYRUXPn.jpg"
+    },
+    
+  
 
 
     {
